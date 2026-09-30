@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Carolina Gamez Flores \[23212193]; l23212193@tijuana.tecnm.mx 
 
 Modelado de Sistemas Fisiológicos
 
